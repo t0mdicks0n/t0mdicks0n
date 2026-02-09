@@ -2,7 +2,7 @@
 
 CTO & technical co-founder with a background in data engineering and a focus on AI.
 
-Currently CTO at [Tendavo](https://tendavo.com), solo-building an AI platform that helps
+Currently CTO at [Tendavo](https://tendavo.se), solo-building an AI platform that helps
 SMBs win public procurements. Previously co-founded Panprices/Loupe (2019-2025) -- built
 data infrastructure that processed millions of product offers across 15+ European markets
 ($1.2M raised, $1M+ first-year GMV), then pivoted to an AI-powered shelf analytics
