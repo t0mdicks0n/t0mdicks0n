@@ -8,7 +8,7 @@ data infrastructure that processed millions of product offers across 15+ Europea
 ($1.2M raised, $1M+ first-year GMV), then pivoted to an AI-powered shelf analytics
 platform trusted by Fortune 1000 brands including MillerKnoll, HAY, and Muuto.
 
-Before startups: founding team at [Kivra](https://kivra.com) (2013-2019), where I led
+Prior to that: founding team at [Kivra](https://kivra.com) (2013-2019), where I led
 growth, data science, and product -- scaling from early stage to 100+ employees.
 
 ---
