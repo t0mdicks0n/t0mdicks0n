@@ -44,8 +44,8 @@ scale with confidence-based filtering and database-backed task queuing.
 [vlm-product-matching](https://github.com/panprices/vlm-product-matching)
 
 **Production web crawling at scale** -- Playwright-based crawlers (Crawlee) on
-Kubernetes with 10+ retailer-specific implementations, anti-bot handling, proxy
-rotation, and HAR-based testing for reliability.
+Kubernetes designed to cost effectively scrape +10m e-commerce websites per week.
+Anti-bot handling, proxy rotation, and HAR-based testing for reliability.
 [shelf-analytics-scraper](https://github.com/panprices/shelf-analytics-scraper)
 
 **Workflow orchestration** -- GCP Workflows chaining Dataflow jobs, Vertex Batch
@@ -63,8 +63,8 @@ matching tasks.
 ### Previously built: Distributed price intelligence (Panprices)
 
 Before Loupe, built the data infrastructure that started it all -- a system that scraped
-7+ price comparison sources across Europe (Google Shopping, Idealo, Pricerunner, Prisjakt,
-Kelkoo, Kuantokusta, Geizhals). Async Python with typed Pydantic models, event-driven
+price comparison sources across Europe (Google Shopping, Idealo, Pricerunner, Prisjakt,
+Kelkoo, Kuantokusta, Geizhals etc). Async Python with typed Pydantic models, event-driven
 via Cloud Pub/Sub, persisted to PostgreSQL + BigQuery, real-time sync to Firebase for
 sub-second client updates. Each scraper as an independent Cloud Function with parallel
 CI/CD via Cloud Build.
