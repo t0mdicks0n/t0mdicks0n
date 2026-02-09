@@ -79,7 +79,7 @@ CI/CD via Cloud Build.
 
 - [llm-self-hosting](https://github.com/t0mdicks0n/llm-self-hosting) -- Running open-weight models on ephemeral cloud GPUs via SkyPilot + vLLM
 - [finetuning_llms](https://github.com/t0mdicks0n/finetuning_llms) -- LLM fine-tuning experiments
-- [TomSQL](https://github.com/t0mdicks0n/TomSQL) -- Building a relational DBMS from scratch in C++
+- [nanochat_learning](https://github.com/t0mdicks0n/nanochat_learning) -- Building a ChatGPT-style model from scratch
 
 ### Stack
 
